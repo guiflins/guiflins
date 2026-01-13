@@ -74,7 +74,7 @@ Me chamo Guilherme Lins, tenho 18 anos e sou natural de Pernambuco. Atualmente, 
       alt="GitHub Stats" 
       height="200"
       style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiflins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiflins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
 </p>
