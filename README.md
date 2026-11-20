@@ -3,7 +3,7 @@
 - Estudando Java
 - Estou buscando colaborar com front-end e back-end!
 
-Me chamo Guilherme Lins, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando  Ciência da Computação na UNICAP.
+Me chamo Guilherme Lins, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando  Ciência da Computação na UNICAP.
 
 
 
